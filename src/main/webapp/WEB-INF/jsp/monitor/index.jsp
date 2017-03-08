@@ -66,39 +66,7 @@
 
                                 <div class="x_content">
 
-                                    <%--<p>Add class <code>bulk_action</code> to table for bulk actions options on row select</p>--%>
-
-                                    <table class="table table-striped responsive-utilities jambo_table ">
-                                        <thead>
-                                        <tr class="headings">
-
-                                            <th class="column-title">名称 </th>
-                                            <th class="column-title">地址 </th>
-                                            <th class="column-title no-link last"><span class="nobr">操作</span>
-                                            </th>
-                                        </tr>
-                                        </thead>
-
-                                        <tbody>
-                                        <c:forEach items="${lists}" var="list">
-
-                                        <tr class="odd pointer">
-
-                                            <td class=" ">${list.Node}</td>
-                                            <td class=" ">${list.Address}</td>
-                                            <td class=" last"><a href="#" onclick="deletenode('${list.Node}')" ><span class="glyphicon glyphicon-trash"></span> </a>
-                                            </td>
-                                        </tr>
-                                        <%--<tr class="even pointer">--%>
-                                            <%--<td class=" ">121000040</td>--%>
-                                            <%--<td class=" ">May 24, 2014 11:47:56 PM </td>--%>
-                                            <%--<td class=" last"><a href="#">View</a>--%>
-                                            <%--</td>--%>
-                                        <%--</tr>--%>
-                                        </c:forEach>
-                                        </tbody>
-
-                                    </table>
+                                  
                                 </div>
                             </div>
                         </div>
