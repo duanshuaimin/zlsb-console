@@ -28,3 +28,13 @@
         </div>
 
     </div>
+<script src="/resource/js/bootstrap.min.js"></script>
+
+
+<!-- bootstrap progress js -->
+<script src="/resource/js/progressbar/bootstrap-progressbar.min.js"></script>
+<script src="/resource/js/nicescroll/jquery.nicescroll.min.js"></script>
+<!-- icheck -->
+<script src="/resource/js/icheck/icheck.min.js"></script>
+
+<script src="/resource/js/custom.js"></script>
