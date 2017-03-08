@@ -43,7 +43,7 @@
                     </li>
                     <li><a><i class="fa fa-edit"></i> 监控 <span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu" style="display: none">
-                            <li><a href="<c:url value="/monitor/index.jsp"/>">监控管理</a>
+                            <li><a href="<c:url value="/monitor/"/>">监控管理</a>
                             </li>
                         </ul>
                     </li>
