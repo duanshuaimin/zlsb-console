@@ -32,7 +32,7 @@ public class MonitorController {
         return new ModelAndView("monitor/index");
     }
     @RequestMapping(value = "/cpu", method = RequestMethod.GET)
-    public ModelAndView login() {
+    public ModelAndView fetchMetricData() {
         return new ModelAndView("monitor/index");
     }
 

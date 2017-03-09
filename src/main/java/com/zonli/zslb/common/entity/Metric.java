@@ -1,3 +1,5 @@
+package com.zonli.zslb.common.entity;
+import java.sql.Timestamp;
 public class Metric{
 
 	private String m_name;
