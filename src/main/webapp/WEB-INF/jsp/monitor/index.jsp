@@ -5,14 +5,11 @@
 <body class="nav-md">
 
     <div class="container body">
-
-
         <div class="main_container">
 
             <!-- left menu -->
             <jsp:include page="../common/left.jsp"></jsp:include>
             <!-- /left menu -->
-
 
             <!-- top navigation -->
            <jsp:include page="../common/topnav.jsp"></jsp:include>
@@ -50,26 +47,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="x_panel">
-                                <div class="x_title">
-                                    <h2>列表信息 <small></small></h2>
-                                    <ul class="nav navbar-right panel_toolbox">
-                                        <li>
-                                            <button type="button" class="btn btn-primary" onclick="addnode()">添加</button>
-
-                                        </li>
-
-                                    </ul>
-                                    <div class="clearfix"></div>
-                                </div>
-
-                                <div class="x_content">
-
-                                  
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <!-- /content -->
@@ -100,11 +78,7 @@
     <script src="/resource/js/icheck/icheck.min.js"></script>
     <script src="/resource/js/custom.js"></script>
 
-    
-
-
     <!-- /datepicker -->
     <!-- /footer content -->
 </body>
-
 </html>
