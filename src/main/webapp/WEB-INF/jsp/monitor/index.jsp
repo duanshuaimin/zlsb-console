@@ -35,6 +35,9 @@
                                     <h2>主机</h2>
                                     <div class="clearfix"></div>
                                 </div>
+                                <div class="x_conetent">
+                                    
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12">
@@ -42,6 +45,9 @@
                                 <div class="x_title">
                                     <h2>前端</h2>
                                     <div class="clearfix"></div>
+                                </div>
+                                <div class="x_conetent">
+                                    
                                 </div>
                             </div>
                         </div>          
@@ -55,7 +61,9 @@
                                     <h2>服务</h2>
                                     <div class="clearfix"></div>
                                 </div>
-                                
+                                <div class="x_conetent">
+                                    
+                                </div>
                             </div>
                         </div>
                     </div>
