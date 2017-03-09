@@ -49,7 +49,14 @@
                     <!--backend status-->
                     <div class="clearfix"></div>
                     <div class="row">
-                        
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div calss="x_panel">
+                                <div class="x_title">
+                                    <h2>服务</h2>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- /content -->
