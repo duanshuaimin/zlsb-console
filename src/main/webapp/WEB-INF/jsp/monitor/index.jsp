@@ -53,6 +53,7 @@
                             <div calss="x_panel">
                                 <div class="x_title">
                                     <h2>服务</h2>
+                                    <div class="clearfix"></div>
                                 </div>
                                 
                             </div>
