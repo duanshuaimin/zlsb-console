@@ -46,6 +46,11 @@
                             </div>
                         </div>          
                     </div>
+                    <!--backend status-->
+                    <div class="clearfix"></div>
+                    <div class="row">
+                        
+                    </div>
                 </div>
                 <!-- /content -->
                 <!-- footer content -->
