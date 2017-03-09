@@ -31,6 +31,11 @@ public class MonitorController {
     public ModelAndView login() {
         return new ModelAndView("monitor/index");
     }
+    @RequestMapping(value = "/cpu", method = RequestMethod.GET)
+    public ModelAndView login() {
+        return new ModelAndView("monitor/index");
+    }
+
 
 
 }
